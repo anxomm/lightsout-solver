@@ -1,0 +1,1 @@
+tog(0,2) tog(0,3) tog(0,5) tog(1,4) tog(1,6) tog(2,0) tog(2,2) tog(2,6) tog(2,7) tog(3,0) tog(3,1) tog(3,3) tog(3,4) tog(3,8) tog(4,1) tog(4,5) tog(4,6) tog(4,7) tog(4,8) tog(5,5) tog(5,6) tog(6,2) tog(6,5) tog(7,2) tog(8,2) tog(8,4)
